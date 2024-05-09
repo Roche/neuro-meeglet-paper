@@ -1,0 +1,33 @@
+name: eeg-biomarker-paper
+channels:
+    - pytorch
+    - nvidia
+    - conda-forge
+dependencies:
+    - python=3.10
+    - pytorch=2.0.1
+    - pytest
+    - yaml
+    - tqdm
+    - pyprojroot
+    - pandas=1.5.3
+    - scikit-learn=1.1.3
+    - h5py
+    - mne
+    - mne-bids
+    - mne-icalabel
+    - autoreject
+    - python-picard
+    - ipython
+    - jupyter
+    - ipykernel
+    - fastcore
+    - dask
+    - dask-jobqueue
+    - pip
+    - pip:
+        - meeglet==0.0.1rc7
+        - skorch==0.12.1
+        - braindecode==0.7
+        - pyriemann
+        - coffeine

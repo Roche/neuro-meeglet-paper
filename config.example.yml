@@ -1,0 +1,10 @@
+DATASETS:
+  TDBRAIN:
+    bids_root: "/path/to/TDBRAIN/bids_root"
+    deriv_root: "/path/to/where/TDBRAIN/derivatives/should/be/saved"
+  TUAB:
+    source_root: "/path/to/TUAB/unbidsified_sourcedata"
+    bids_root: "/path/to/TUAB/bids_root"
+    deriv_root: "/path/to/where/TUAB/derivatives/should/be/saved"
+RESULTS:
+  results_path: "/path/to/where/results/should/be/saved"
