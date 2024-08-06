@@ -1,6 +1,6 @@
 # Machine Learning of Brain-specific Biomarkers from EEG
 
-This repository contains the research code from [Bomatter et al 2023, bioRxiv](http://www.biorxiv.org/content/10.1101/2023.12.15.571864v5).
+This repository contains the research code from [Bomatter et al 2024, eBioMedicine](https://doi.org/10.1016/j.ebiom.2024.105259).
 
 For the software library please checkout the [meeglet](https://roche.github.io/neuro-meeglet/) package.
 
